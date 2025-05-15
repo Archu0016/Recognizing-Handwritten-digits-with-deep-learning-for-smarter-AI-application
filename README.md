@@ -1,1 +1,1 @@
-# Recognizing-Handwritten-digits-using-deep-learning-for-smarter-AI-application
+# Recognizing-Handwritten-digits-with-deep-learning-for-smarter-AI-application
